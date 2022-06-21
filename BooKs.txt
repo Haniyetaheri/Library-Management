@@ -1,0 +1,4 @@
+B56   fizic   1000   mohandesi   3   2
+B13   elahe   500   motaferegheh   3   2
+B88   ryazi   500   payee   3   2
+B14   payee   120   motaferegheh   2   0
